@@ -1,0 +1,31 @@
+{
+  "name": "umi-plugin-inspx",
+  "version": "0.0.4",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "father-build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alitajs/umi-plugin-inspx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alitajs/umi-plugin-inspx/issues"
+  },
+  "homepage": "https://github.com/alitajs/umi-plugin-inspx#readme",
+  "dependencies": {
+    "@umijs/utils": "^3.4.14",
+    "inspx": "^0.0.1-alpha.6"
+  },
+  "devDependencies": {
+    "father-build": "^1.19.4",
+    "@umijs/types": "^3.4.14"
+  },
+  "files": [
+    "lib"
+  ]
+}
