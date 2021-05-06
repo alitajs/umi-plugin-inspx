@@ -18,7 +18,7 @@ npm install umi-plugin-inspx
 
 Inspect elements by hovering an element and holding <kbd>Option (⌥)</kbd> simultaneously.
 
-![demo](/public/demo.gif)
+![demo](https://github.com/raunofreiberg/inspx/raw/main/public/demo.gif)
 
 By default, any element with padding, margin, or width and height is inspectable.
 
